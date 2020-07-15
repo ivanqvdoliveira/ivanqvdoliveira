@@ -13,7 +13,7 @@
 
 
 ## About me 
-:heart: Be Father and husband | :black_heart: Corinthians | :blue_heart: Programming | :yellow_heart: Take Photos
+:heart: Be Father and Husband | :black_heart: Corinthians | :blue_heart: Programming | :yellow_heart: Take Photos
 
 - 👨🏽‍💻 I’m currently working on [Leroy Merlin Brazil](https://github.com/leroy-merlin-br/);
 - :earth_americas: I'm from São Paulo - Brazil
