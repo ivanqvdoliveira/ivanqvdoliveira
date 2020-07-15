@@ -41,4 +41,4 @@
 
 ---
 
-⭐️ From [onimur](https://github.com/ivanqvdoliveira)
+⭐️ From [Ivan Oliveira](https://github.com/ivanqvdoliveira)
