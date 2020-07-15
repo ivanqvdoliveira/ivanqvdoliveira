@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ivanqvdoliveira/ivanqvdoliveira)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivanoliveiranet/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ivanaugoli/)
-[![Twitter URL](https://img.shields.io/twitter/url?color=orange&label=follow&logo=reddit&logoColor=orange&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/IvanOliveiraNet)
+[![Twitter](https://img.shields.io/twitter/url?color=orange&label=follow&logo=reddit&logoColor=orange&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/IvanOliveiraNet)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:admin@ivanoliveira.com.br)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ivanaugoli@hotmail.com)
 <br />
@@ -13,7 +13,7 @@
 
 
 ## About me 
-:heart: Be Father | :black_heart: Corinthians | :blue_heart: Programming | :yellow_heart: Take Photos
+:heart: Be Father and husband | :black_heart: Corinthians | :blue_heart: Programming | :yellow_heart: Take Photos
 
 - 👨🏽‍💻 I’m currently working on [Leroy Merlin Brazil](https://github.com/leroy-merlin-br/);
 - :earth_americas: I'm from São Paulo - Brazil
