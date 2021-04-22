@@ -15,7 +15,7 @@
 ## About me 
 :heart: Be Father and Husband | :black_heart: Corinthians | :blue_heart: Programming | :yellow_heart: Take Photos
 
-- 👨🏽‍💻 I’m currently working on [Leroy Merlin Brazil](https://github.com/leroy-merlin-br/);
+- 👨🏽‍💻 I’m currently working at [Leroy Merlin Brazil](https://github.com/leroy-merlin-br/);
 - :earth_americas: I'm from São Paulo - Brazil
 - :video_game: I like to split my spare time playing with my son, take photos, playing Counter Strike and playing Acoustic Guitar. 
 - :gem: Create something useful just to practice in my spare time
