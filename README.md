@@ -39,7 +39,7 @@
 
 [![Ivan Oliveira's github stats](https://github-readme-stats.vercel.app/api?username=ivanqvdoliveira&show_icons=true&hide_border=true&theme=darcula&include_all_commits=true&count_private=true)](https://github.com/leroy-merlin-br/lm-hybris)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanqvdoliveira&layout=compact&langs_count=7&theme=darcula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanqvdoliveira&layout=compact&langs_count=7&theme=darcula&hide_border=true"/>
 
 ---
 
