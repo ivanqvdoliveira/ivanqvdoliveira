@@ -41,7 +41,7 @@
 <div>
   <a href="https://github.com/ivanqvdoliveira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanqvdoliveira&show_icons=true&hide_border=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanqvdoliveira&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanqvdoliveira&layout=compact&langs_count=7&highcontrast&hide_border=true"/>
   </a>
 </div>
 
