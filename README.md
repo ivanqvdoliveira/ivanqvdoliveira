@@ -37,9 +37,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 
-[![Ivan Oliveira's github stats](https://github-readme-stats.vercel.app/api?username=ivanqvdoliveira&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/leroy-merlin-br/lm-hybris)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanqvdoliveira&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanqvdoliveira&show_icons=true&hide_border=true&theme=darcula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanqvdoliveira&layout=compact&langs_count=7&theme=darcula"/>
 
 ---
