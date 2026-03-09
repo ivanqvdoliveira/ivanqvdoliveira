@@ -35,14 +35,14 @@ Tech: Svelte + Firebase
 
 🔹 **Budget Comparison Tool**  
 Tool designed to compare supplier quotes when planning purchases or services.  
-Tech: React + Firebase
+Tech: React + Firebase  
 🌎 https://orcamento.ivanoliveira.com.br/
 
 ---
 
 <div>
-  <a href="https://github.com/ivanqvdoliveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanqvdoliveira&show_icons=true&hide_border=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanqvdoliveira&layout=compact&langs_count=7&theme=slateorange&hide_border=true"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanqvdoliveira&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanqvdoliveira&layout=compact&theme=transparent&hide_border=true"/>
 </div>
+
+<img src="https://streak-stats.demolab.com?user=ivanqvdoliveira&theme=transparent&hide_border=true" />
