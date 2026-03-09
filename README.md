@@ -40,9 +40,5 @@ Tech: React + Firebase
 
 ---
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanqvdoliveira&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanqvdoliveira&layout=compact&theme=transparent&hide_border=true"/>
-</div>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanqvdoliveira&theme=github-compact&hide_border=true" />
 <img src="https://streak-stats.demolab.com?user=ivanqvdoliveira&theme=transparent&hide_border=true" />
